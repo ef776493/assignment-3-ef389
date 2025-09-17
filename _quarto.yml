@@ -14,7 +14,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - sketchy
       - brand
     css: styles.css
     toc: true
