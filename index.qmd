@@ -1,7 +1,23 @@
 ---
-title: "assignment-3-ef389"
+title: "Apples & Beans"
 ---
 
-This is a Quarto website.
+Emily Fratz Personal Github: <https://github.com/ef776493>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-   Cornell PhD Student
+
+-   Plant Breeding and Genetics
+
+-   Crop of Interest: Common bean
+
+    ![Diverse Jacob's Cattle Beans](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.iZ0ny43PWmM46v5DDR05TgHaHa%3Fpid%3DApi&f=1&ipt=749b6afe07531c767d26e21fcb51714328d62fc82de68f391249bf45f2adecbd&ipo=images)
+
+Maura Gallagher Personal Github: <https://github.com/maura-g108>
+
+-   Cornell PhD Student
+
+-   Plant Breeding and Genetics
+
+-   Crop of Interest: Apple
+
+![Fire Blight in Apple](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.aHUYDO5BmdmzQ5WWoGsanAHaE8%3Fpid%3DApi&f=1&ipt=4b6a64ce27d33c2e0bc32d017470406035507f35c1513b615a075156bf870008&ipo=images)
