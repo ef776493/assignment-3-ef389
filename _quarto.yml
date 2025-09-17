@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "assignment-3-ef389"
+  title: "Emily"
+
   navbar:
     left:
       - href: index.qmd
