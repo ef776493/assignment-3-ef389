@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Emily"
+  title: "assignment-3-ef389"
 
   navbar:
     left:
